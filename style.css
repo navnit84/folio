@@ -76,7 +76,7 @@ body {
 .about {
     display: flex;
     align-items: center;
-    background-image: linear-gradient(45deg, #01041a, #010f13);
+    background-image: linear-gradient(45deg, #363D73, #2794B3);
     justify-content: space-between;
     width: 100%;
 }
